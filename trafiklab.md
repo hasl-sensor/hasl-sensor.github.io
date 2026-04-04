@@ -7,10 +7,9 @@ We now supports using either native SL api for Stockholm, but also Resrobot for 
 
 If you are in Stockholm I recond using SL as it has more features, however Resrobot also provides intra-regional travel.
 
-## SL Api keys
+## SL API keys
 
 The project was migrated to the new key-less SL API, so there is no need in API keys for SL data anymore.
-
 
 ## Resrobot Free API key
 
