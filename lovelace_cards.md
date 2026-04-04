@@ -5,7 +5,10 @@ On this page you will have examples for Traffic Status, Route Planning and Distu
 ## Custom Lovelace Card: Traffic Status Card
 The mostly used card is the [departure-card](https://github.com/hasl-platform/lovelace-hasl-departure-card) which gives you a good overview of a specific stop and the next departures from that. 
 
-![TrafficStatusCard](https://user-images.githubusercontent.com/8133650/56198334-0a150f00-603b-11e9-9e93-92be212d7f7b.PNG)
+![TrafficStatusCard](https://raw.githubusercontent.com/hasl-sensor/lovelace-hasl-departure-card/refs/heads/master/images/dark-card.png)
+
+> [!CAUTION]
+> Sections down below might be outdated and not supported at all
 
 ## Advanced GUI: Route display
 You can use the Route sensor to intellegently determine the next trip from one place to another. Can be perfect to always have information about the quickes travel to work for instance. It will fetch all possible travels between the two points and sort by the quickest travel time across all means of travel. The sensor can then display this information on your Lovelace display.
@@ -27,9 +30,3 @@ It is also common to want to have the current traffic interuptions displayed. Th
 But using the sensors mode you can use the [traffic-status-card](https://github.com/hasl-platform/lovelace-hasl-traffic-status-card) to display more information beyond the simple true or false indicators.
 
 ![Interruptions](https://user-images.githubusercontent.com/1217994/57677754-e1773980-7627-11e9-81e7-4b991a6e4dc1.png)
-
-
-
-
-
-
